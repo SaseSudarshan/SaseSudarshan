@@ -1,28 +1,27 @@
-# Sudarshan Anashabapu Sase
 
-## Software Engineer  |   LinkedIn
-  
-🔭 I’m currently building innovative solutions
+  <h1 align="center">👋 Hello, I'm Sudarshan Sase!</h1>
 
-🌱 I’m currently learning Gen AI
 
-💬 Ask me about Frontend, Backend, and Databases
 
-🔧 Specialty in React.js and Node.js
-
-📫 Reach me at:sasesudarshan@gmail.com 
-
----
-
-### EDUCATION
-
-- **MCA (Computer Application)**
-
----
+<p align="center">
+  🔭 I’m currently building innovative solutions
+</p>
+<p align="center">
+  🌱 I’m currently learning Gen AI
+</p>
+<p align="center">
+  💬 Ask me about Frontend, Backend, and Databases
+</p>
+<p align="center">
+  🔧 Specialty in React.js and Node.js
+</p>
+<p align="center">
+  📫 Reach me at: sasesudarshan@gmail.com
+</p>
 
 ### TECHNOLOGIES
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="bootstrap" />
@@ -49,57 +48,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="npm" />
 </p>
 
+## Sudarshan's GitHub Stats and Status
 
-
-## GitHub Stats and Status
 
 | **Current Contribution** | **GitHub Status** |
 |-------------------------|-------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaseSudarshan&show_icons=true&count_private=true&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaseSudarshan&theme=dark) |
 
+
 ## Total Contributions This Year
+
 
 ![Total Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=SaseSudarshan&layout=compact&show_icons=true&hide_title=true)
 
 
-# Projects
+# **Projects**
 
-## Vizismart
-**Description:** A property management system integrating Django APIs for property listing, tenant management, and maintenance request handling.
 
-**Technologies:** React JS, Redux, Axios, Tailwind CSS, Django, PostgreSQL
-
----
-
-## Stegnography
-**Description:** A Java-based steganography project using LSB manipulation to hide messages within digital images.
-
-**Technologies:** Core Java, LSB Manipulation, HTML, CSS, JavaScript
-
----
-
-## Car Parking Management
-**Description:** A PHP-based parking management system for space allocation, payment processing, and data management.
-
-**Technologies:** HTML, CSS, PHP, JavaScript, MySQL
-
----
-
-## Patho Link
-**Description:** A platform facilitating communication between users and lab owners for appointment scheduling and treatment continuation.
-
-**Technologies:** HTML, CSS, PHP, JavaScript, MySQL
-
----
-
-## Weather Forecast Application
-**Description:** An Android app providing weather updates using the Weather API.
-
-**Technologies:** Java, Weather API, Android
+| **Project**               | **Description**                                                                                   | **Technologies**                             |
+|:--------------------------:|---------------------------------------------------------------------------------------------------|----------------------------------------------|
+| **Vizismart**              | A property management system integrating Django APIs for property listing, tenant management, and maintenance request handling. | React JS, Redux, Axios, Tailwind CSS, Django, PostgreSQL |
+| **Stegnography**           | A Java-based steganography project using LSB manipulation to hide messages within digital images.  | Core Java, LSB Manipulation, HTML, CSS, JavaScript |
+| **Car Parking Management** | A PHP-based parking management system for space allocation, payment processing, and data management. | HTML, CSS, PHP, JavaScript, MySQL            |
+| **Patho Link**             | A platform facilitating communication between users and lab owners for appointment scheduling and treatment continuation. | HTML, CSS, PHP, JavaScript, MySQL            |
+| **Weather Forecast Application** | An Android app providing weather updates using the Weather API.                              | Java, Weather API, Android                   |
 
 
 # Certifications
 
 ## 🏅 Scrum Master  
-
 ## ❄️ Snowflake SnowPro Core  
+
