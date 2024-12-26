@@ -1,6 +1,16 @@
 # Sudarshan Anashabapu Sase
 
 ## Software Engineer  |   LinkedIn
+  
+🔭 I’m currently building innovative solutions
+
+🌱 I’m currently learning Gen AI
+
+💬 Ask me about Frontend, Backend, and Databases
+
+🔧 Specialty in React.js and Node.js
+
+📫 Reach me at:sasesudarshan@gmail.com 
 
 ---
 
@@ -26,9 +36,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="php" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40" alt="tailwind" />
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" height="40" width="40" alt="snowflake" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" width="40" alt="eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" width="40" alt="vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="npm" />
 </p>
+
+
+
+## GitHub Stats and Status
+
+| **Current Contribution** | **GitHub Status** |
+|-------------------------|-------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaseSudarshan&show_icons=true&count_private=true&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaseSudarshan&theme=dark) |
+
+## Total Contributions This Year
+
+![Total Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=SaseSudarshan&layout=compact&show_icons=true&hide_title=true)
 
 
 # Projects
