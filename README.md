@@ -51,9 +51,9 @@
 ## Sudarshan's GitHub Stats and Status
 
 
-| **Current Contribution** | **GitHub Status** |
-|-------------------------|-------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaseSudarshan&show_icons=true&count_private=true&hide_title=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaseSudarshan&theme=dark) |
+| **Current Contribution** |
+|--------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaseSudarshan&show_icons=true&count_private=true&hide_title=true) |
 
 
 ## Total Contributions This Year
