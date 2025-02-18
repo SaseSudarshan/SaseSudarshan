@@ -16,7 +16,7 @@
   🔧 Specialty in React.js and Node.js
 </p>
 <p align="center">
-  📫 Reach me at: sasesudarshan@gmail.com | <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+  📫 Reach me at: sasesudarshan@gmail.com | <a href="https://sudarshan-sase.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
 ### TECHNOLOGIES
